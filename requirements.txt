@@ -5,4 +5,4 @@ pandas-profiling
 altair
 pyarrow
 openpyxl
-pkg_resources
+setuptools
