@@ -20,7 +20,7 @@ def local_css(file_name):
         st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
 # Load custom CSS
-local_css("style.css")
+# local_css("style.css")
 
 # App header
 st.title("📊 DataViz Explorer")
